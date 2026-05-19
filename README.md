@@ -39,7 +39,7 @@ Siber güvenlik disiplinlerine göre yapılandırılmış, teorik ve pratik büt
 
 | Patika Adı | Seviye | Dil | Durum | Notlar & Raporlar |
 | :--- | :---: | :---: | :---: | :--- |
-| **Pre-Security** | `Beginner` | 🇹🇷 / 🇬🇧 | 🟢 Tamamlandı | [Ağ Temelleri & Linux Temelleri](./paths/pre-security/) |
+| **Pre-Security** | `Beginner` | 🇹🇷 / 🇬🇧 | 🟢 Tamamlandı | [Network Fundamentals](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Network%20Fundamentals) |
 | **Introduction to Cyber Security** | `Beginner` | 🇹🇷 / 🇬🇧 | 🟢 Tamamlandı | [Siber Güvenliğe Giriş Günlüğü](./paths/intro-cyber/) |
 | **SOC Level 1** | `Intermediate` | 🇬🇧 | 🟡 Devam Ediyor | [Log Analizi & Tehdit Avcılığı](./paths/soc-lvl-1/) |
 | **Jr. Penetration Tester** | `Intermediate` | 🇬🇧 | 🔒 VIP | [Sızma Testi Metodolojileri (VIP)](https://buymeacoffee.com/KULLANICI_ADIN) |
