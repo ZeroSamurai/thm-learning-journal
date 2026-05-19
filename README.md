@@ -60,6 +60,7 @@ Siber güvenlik disiplinlerine göre yapılandırılmış, teorik ve pratik büt
 TryHackMe üzerindeki "Sanal savunmasız ağ" analizleri.
 
 | Ağ Adı | Zorluk | Durum | Operasyon Raporu |
+| :--- | :---: | :---: | :--- |
 | **Lateral Movement and Pivoting** | 🟢 `Easy` | 🔒 VIP | [Pivoting & Tünelleme Stratejileri](https://buymeacoffee.com/KULLANICI_ADIN) |
 | **Hololo** | `Hard` | 🔒 VIP | [AD Domain Kompromizasyonu](https://buymeacoffee.com/KULLANICI_ADIN) |
 | **Throwback** | `Enterprise` | 🔒 VIP | [Kurumsal Ağ Sızma Testi Raporu](https://buymeacoffee.com/KULLANICI_ADIN) |
