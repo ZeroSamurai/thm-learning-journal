@@ -1,4 +1,4 @@
-# 🛡️ TryHackMe Comprehensive Learning Journal & Operations Vault
+# 🛡️ TryHackMe Comprehensive Learning Journal & Operations Vault (Hazırlanıyor...)
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/ZeroSamurai/thm-learning-journal?style=for-the-badge&color=gold" alt="Stars">
@@ -8,13 +8,13 @@
   <a href="https://buymeacoffee.com/KULLANICI_ADIN"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
 </p>
 
-Anlık olarak güncellenen bu depo, **TryHackMe** platformundaki siber güvenlik serüvenimin eksiksiz bir haritasıdır. Burada sadece basit çözümler değil; teorik altyapılar, asistan destekli özel çalışma notları, metodolojiler ve sızma testi raporları yer almaktadır.
+Sürekli olarak güncellenen bu depo, **TryHackMe** platformundaki siber güvenlik serüvenimin eksiksiz bir haritasıdır. Burada sadece basit çözümler değil; teorik altyapılar, asistan destekli özel çalışma notları, metodolojiler ve sızma testi raporları yer almaktadır.
 
 > 🌍 **Language Notice:** Tüm içerikler hem **Türkçe (🇹🇷)** hem de global topluluk için **İngilizce (🇬🇧)** standartlarında hazırlanmaktadır.
 
 ---
 
-## 🔒 VIP Premium Vault Nedir?
+## 🔒 VIP Premium Vault Nedir? (Yakında)
 Bu repoda göreceğiniz 🔒 (Kilit) simgeli ileri seviye içerikler, zorlu CTF çözümleri ve özel sömürü (exploitation) senaryoları **Private VIP Repo** içerisinde yer alır. 
 Cebinizden servet çıkmadan, sadece aylık küçük bir kahve aboneliği ile tüm gizli arşive ve sürekli güncellenen dosyalara anında erişim sağlayabilirsiniz.
 
@@ -42,51 +42,32 @@ Siber güvenlik disiplinlerine göre yapılandırılmış, teorik ve pratik büt
 | **Pre-Security** | `Beginner` | TR / EN(Soon) | 🟢 Completed | [Network Fundamentals](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Pre%20Security/Network%20Fundamentals)<br>[How To Web Works](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Pre%20Security/How%20The%20Web%20Works)<br>[Computer Fundamentals](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Pre%20Security/Computer%20Fundamentals)<br>[Attacks&Defenses](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Pre%20Security/Attacks%20and%20Defenses)<br>[Operating Systems Basics](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Pre%20Security/Operating%20Systems%20Basics)<br>[Software Basics](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Pre%20Security/Software%20Basics)|
 | **Cyber Security 101** | `Beginner` | TR / EN(Soon) | 🟢 Tamamlandı | [Build Your Cyber Security Career](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Build%20Your%20Cyber%20Security%20Career)<br>[Command Line](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Command%20Line)<br>[Cryptography](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Cryptography)<br>[Defensive Security Tooling](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Defensive%20Security%20Tooling)<br>[Defensive Security](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Defensive%20Security)<br>[Exploitation Basics](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Exploitation%20Basics)<br>[Linux Fundamentals](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Linux%20Fundamentals)<br>[Networking](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Networking)<br>[OWASP Top 10 (2025)](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/OWASP%20Top%2010%20(2025))<br>[Offensive Security Tooling](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Offensive%20Security%20Tooling)<br>[Security Solutions](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Security%20Solutions)<br>[Web Hacking](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Web%20Hacking)<br>[Windows and AD Fundamentals](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/Cyber%20Security%20101/Windows%20and%20AD%20Fundamentals) |
 | **SOC Level 1** | `Beginner` | TR / EN(Soon) | 🟡 Devam Ediyor | [Blue Team Introduction](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/SOC%20Level%201/Blue%20Team%20Introduction)<br>[Core SOC Solutions](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/SOC%20Level%201/Core%20SOC%20Solutions)<br>[SOC Team Internals](https://github.com/ZeroSamurai/thm-learning-journal/tree/main/SOC%20Level%201/SOC%20Team%20Internals)<br>[]()<br>[]() |
-| **SOC Level 2** | `Intermediate` | TR / EN(Soon) | 🔒 VIP |  |
-| **Advanced Endpoint Investigations** | `Advanced` | TR / EN(Soon) | 🔒 VIP |  |
-| **Defending Azure** | `Intermediate` | TR / EN(Soon) | 🔒 VIP |  |
-| **Web Fundamentals** | `Beginner` | TR / EN(Soon) | 🔒 VIP |  |
-| **Web Application Pentestin** | `Intermediate` | TR / EN(Soon) | 🔒 VIP | |
-| **Web Application Red Teaming** | `Advanced` | TR / EN(Soon) | 🔒 VIP |  |
-| **Red Teaming** | `Advanced` | TR / EN(Soon) | 🔒 VIP |  |
-| **Security Engineer** | `Beginner` | TR / EN(Soon) | 🔒 VIP |  |
-| **DevSecOps** | `Intermediate` | TR / EN(Soon) | 🔒 VIP |  |
-| **Attacking and Defending AWS** | `Intermediate` | TR / EN(Soon) | 🔒 VIP |  |
-| **AI Security** | `Intermediate` | TR / EN(Soon) | 🔒 VIP |  |
+| **SOC Level 2** | `Intermediate` | TR / EN(Soon) | 🔴🔒 VIP |  |
+| **Advanced Endpoint Investigations** | `Advanced` | TR / EN(Soon) | 🔴🔒 VIP |  |
+| **Defending Azure** | `Intermediate` | TR / EN(Soon) | 🔴🔒 VIP |  |
+| **Web Fundamentals** | `Beginner` | TR / EN(Soon) | 🔴🔒 VIP |  |
+| **Web Application Pentestin** | `Intermediate` | TR / EN(Soon) | 🔴🔒 VIP | |
+| **Web Application Red Teaming** | `Advanced` | TR / EN(Soon) | 🔴🔒 VIP |  |
+| **Red Teaming** | `Advanced` | TR / EN(Soon) | 🔴🔒 VIP |  |
+| **Security Engineer** | `Beginner` | TR / EN(Soon) | 🔴🔒 VIP |  |
+| **DevSecOps** | `Intermediate` | TR / EN(Soon) | 🔴🔒 VIP |  |
+| **Attacking and Defending AWS** | `Intermediate` | TR / EN(Soon) | 🔴🔒 VIP |  |
+| **AI Security** | `Intermediate` | TR / EN(Soon) | 🔴🔒 VIP |  |
 
 ---
 
-## 📚 2. Modules (Uzmanlık Modülleri)
-Konu bazlı kategorize edilmiş, her bir odanın teknik detayını ve arka plandaki çalışma mantığını açıklayan asistan destekli derinlemesine notlar.
+## 🎛️ 2. Networks (Büyük Ağ Simülasyonları)
+TryHackMe üzerindeki "Sanal savunmasız ağ" analizleri.
 
-### 🌐 Network Fundamentals (Ağ Temelleri)
-- [x] 🟢 `Network Theory` | [İletişim Protokolleri & OSI Katmanları](./modules/networking/osi-model.md)
-- [x] 🟢 `Packets & Frames` | [Wireshark ile Canlı Paket Analiz Teknikleri](./modules/networking/packet-analysis.md)
-
-### 💻 Operating Systems (İşletim Sistemi Güvenliği)
-- [x] 🟢 `Linux Fundamentals` | [Linux Dosya Sistemleri, İzinler & Ssh Sıkılaştırma](./modules/os/linux-fundamentals.md)
-- [x] 🟢 `Windows Fundamentals` | [Windows Kayıt Defteri (Registry) & Yetki Yönetimi](./modules/os/windows-fundamentals.md)
-- [ ] 🟡 `Active Directory Basics` | Active Directory Mimarisi ve Keşif Aşamaları *(Hazırlanıyor)*
-
-### 🕵️‍♂️ Information Gathering & Recon (Keşif ve İstihbarat)
-- [x] 🟢 `Nmap passive/active` | [Gelişmiş Port Tarama ve Firewall Atlama Betikleri](./modules/recon/nmap-deepdive.md)
-- [ ] 🔒 `Subdomain Brute-Forcing` | Amass ve Gobuster ile Atak Yüzeyi Genişletme (VIP)
-- [ ] 🔒 `OSINT Operations` | Açık Kaynak İstihbaratı ve Dijital Ayak İzi Takibi (VIP)
-
----
-
-## 🎛️ 3. Networks (Büyük Ağ Simülasyonları)
-TryHackMe üzerindeki kurumsal ağ yapılarının sızma testi operasyon analizleri.
-
-| Ağ Adı | Zorluk | Hedef Sistem Sayısı | Durum | Operasyon Raporu |
+| Ağ Adı | Zorluk | Durum | Operasyon Raporu |
 | :--- | :---: | :---: | :---: | :--- |
-| **Wreath** | `Medium` | 3 Pivot Host | 🔒 VIP | [Pivoting & Tünelleme Stratejileri](https://buymeacoffee.com/KULLANICI_ADIN) |
-| **Hololo** | `Hard` | 5 Active Host | 🔒 VIP | [AD Domain Kompromizasyonu](https://buymeacoffee.com/KULLANICI_ADIN) |
-| **Throwback** | `Enterprise` | 15+ Active Host | 🔒 VIP | [Kurumsal Ağ Sızma Testi Raporu](https://buymeacoffee.com/KULLANICI_ADIN) |
+| **Lateral Movement and Pivoting** | 🟢 `Easy` | 🔒 VIP | [Pivoting & Tünelleme Stratejileri](https://buymeacoffee.com/KULLANICI_ADIN) |
+| **Hololo** | `Hard` | 🔒 VIP | [AD Domain Kompromizasyonu](https://buymeacoffee.com/KULLANICI_ADIN) |
+| **Throwback** | `Enterprise` | 🔒 VIP | [Kurumsal Ağ Sızma Testi Raporu](https://buymeacoffee.com/KULLANICI_ADIN) |
 
 ---
 
-## 🎯 4. Challenges & Walkthroughs (CTF Makine Çözümleri)
+## 🎯 3. Challenges & Walkthroughs (CTF Makine Çözümleri)
 Bağımsız sızma testi makinelerinin (Boot-to-Root) aşama aşama (Recon -> Foothold -> PrivEsc) çözümleri.
 
 ### 🟢 Easy Challenges (13 / 175)
